@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539866307 source:c:\users\usuario\google drive\tp-final-lab2\main.c
+	<stdio.h>
+	<stdlib.h>
+
