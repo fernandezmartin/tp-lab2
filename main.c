@@ -4,5 +4,6 @@
 int main()
 {
     printf("Hello tincho\n");
+    printf("Hello mean girls!!");
     return 0;
 }
